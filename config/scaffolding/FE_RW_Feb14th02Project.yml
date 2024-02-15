@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: FE_RW_Feb14th02Project
+  gitServerName: rawa space gitb4
+  gitUrl: https://github.com/radhikaWarrierSAG/FE_RW_Feb14th02Project
+  gitUsername: radhikaWarrierSAG
+  gitBranch: main
